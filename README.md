@@ -4,6 +4,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Real-Time-Contract-Redlining-Collaboration/graphs/commit-activity)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <br/>
 
@@ -29,6 +30,8 @@
   - [🏢 SaaS Platforms](#-saas-platforms)
   - [🔓 Open-Source Repositories](#-open-source-repositories)
 - [⚖️ Feature Comparison Matrix](#️-feature-comparison-matrix)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
 - [🤝 Contributing](#-contributing)
 - [📜 License](#-license)
 
@@ -201,6 +204,22 @@ The table below highlights open-source repositories and self-hosted tools for co
 | **draftLegal** | Open Source | 🟡 Agent-driven | ✅ Suggested Changes | ✅ Counter-proposals | ✅ | Open-source Harvey + Ironclad alternative |
 | **legal-redline-tools** | Open Source | ❌ CLI/Pipeline | ✅ Native DOCX markup | ✅ Agentic Skills | ✅ | Automated legal review pipelines |
 | **docx-redline-js** | Open Source | ❌ Library | ✅ Programmatic Redlines | ❌ | ✅ | Building custom contract editors |
+
+---
+
+## 💖 Support
+
+Thank you so much for exploring and using this repository! If this curated list of real-time contract redlining tools, legal AI agents, and collaborative suites has helped you, saved you time, or inspired your legal tech architecture, please consider supporting the project:
+
+- ⭐ **Star** this repository to increase visibility and help others discover it.
+- 🍴 **Fork** and contribute new tools or updates to keep the ecosystem fresh.
+- 📢 **Share** this collection with your network on LinkedIn, X/Twitter, or Reddit.
+- ☕ **Buy a Coffee / Sponsor**: If you'd like to back ongoing maintenance and open-source curation, consider supporting via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Your support is genuinely appreciated!
+
+---
+
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Real-Time-Contract-Redlining-Collaboration&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Real-Time-Contract-Redlining-Collaboration&type=date&legend=top-left)
 
 ---
 
